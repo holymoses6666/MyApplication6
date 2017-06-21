@@ -6,6 +6,7 @@ package com.rodion.myapplication6;
 int c;
 int d;
 int e;
+int f;
 
 public class TestJava {
 }
